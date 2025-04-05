@@ -1,3 +1,4 @@
+@echo off
 :mainset
 title Multi Tool - Currently Logged in as [%user%]
 cls
