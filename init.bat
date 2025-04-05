@@ -1,4 +1,6 @@
 @echo off
+chcp 65001 >nul
+cls
 :mainset
 title Multi Tool - Currently Logged in as [%user%]
 cls
